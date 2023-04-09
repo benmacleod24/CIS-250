@@ -1,0 +1,15 @@
+﻿  Homework01.cpp
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(90,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(95,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(100,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(105,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(125,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(130,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(135,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(140,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(145,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(150,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(155,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(160,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\Homework01.cpp(62): warning C4715: 'getDepartmentById': not all control paths return a value
+  Homework01.vcxproj -> Z:\computer-sci\CIS_250\CIS250_Homework01_BenMacleod\Homework01_Program01\x64\Debug\Homework01.exe
